@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋, I am Hemanth Surya Prasad</h3>
+<h3 align="center">Hi 👋, I am M Hemanth Surya Prasad</h3>
 <h4 align="center">A Bachelor of Technology student</h4>
 
 <p align="center">
