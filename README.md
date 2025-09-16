@@ -3,7 +3,7 @@
     Hi there, I'm M Hemanth Surya Prasad 👋
   </h1>
   <h3>
-    A passionate Full-Stack Developer and B.Tech Student
+    Cyber Security Analyst | Full-Stack Engineer
   </h3>
 </div>
 
