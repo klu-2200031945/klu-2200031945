@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=280&section=header&text=M%20Hemanth%20Surya%20Prasad&fontSize=70&fontColor=ffffff&animation=fadeIn" alt="Banner Image"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=000000,000000,000000&height=280&section=header&text=On%20Simplicity%20&%20Creation&fontSize=70&fontColor=ADD8E6&animation=fadeIn&strokeWidth=2&stroke=ADD8E6&gradient=0,0000FF,00008B" alt="Banner Image with Blue Gradient"/>
 </div>
-
 <div align="center">
   <h1>
     Hi there, I'm M Hemanth Surya Prasad 👋
