@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/banner.svg" alt="Banner Image" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=280&section=header&text=M%20Hemanth%20Surya%20Prasad&fontSize=70&fontColor=ffffff&animation=fadeIn" alt="Banner Image"/>
 </div>
 
 <div align="center">
