@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=000000,000000,000000&height=280&section=header&gradient=0,0000FF,00008B" alt="Clean Blue Gradient Wave Banner"/>
+  <img src="https://raw.githubusercontent.com/zsu-gusterssismt/profi-2203/assets/skull-ascii.png" alt="Hacker Skull ASCII Art Banner"/>
 </div>
 <div align="center">
   <h1>
