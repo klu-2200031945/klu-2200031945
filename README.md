@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=000000,000000,000000&height=280&section=header&text=On%20Simplicity%20&%20Creation&fontSize=70&fontColor=ADD8E6&animation=fadeIn&strokeWidth=2&stroke=ADD8E6&gradient=0,0000FF,00008B" alt="Banner Image with Blue Gradient"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=000000,000000,000000&height=280&section=header&gradient=0,0000FF,00008B" alt="Clean Blue Gradient Wave Banner"/>
 </div>
 <div align="center">
   <h1>
